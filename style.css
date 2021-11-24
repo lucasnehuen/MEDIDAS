@@ -1,0 +1,13 @@
+body{
+    background-image: url(imagenes/Camino.jpg);
+    background-attachment: fixed;
+    background-repeat: inherit;
+}
+h1{
+    color: orange;
+}
+.fondo{
+    background-color: rgb(207, 196, 41);
+    border-radius: 20px;
+    padding: 2em;
+}
